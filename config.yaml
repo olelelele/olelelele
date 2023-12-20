@@ -1,0 +1,28 @@
+baseURL: "brolin.xyz"
+title: "Ole Brolin"
+languageCode: "en-us"
+theme: "PaperMod"
+
+params:
+  background: "images/background.jpg"
+  title_color: "#ffffff"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+author:
+  name: "Ole Brolin"
+  bio: "Sound designer, musician, synthesizer maker and creative & technical consultant"
+  location: "Eberswalde, Germany"
+#  email: "your.email@example.com"
+#  social:
+#    github: "your-github-username"
+#    twitter: "your-twitter-handle"
+#    linkedin: "your-linkedin-username"
+
+outputFormats:
+  HTML:
+    baseName: "index"
+    mediaType: "text/html"
