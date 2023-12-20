@@ -1,4 +1,4 @@
-baseURL: "brolin.xyz"
+baseURL: "http://localhost:1313/"
 title: "Ole Brolin"
 languageCode: "en-us"
 theme: "PaperMod"
