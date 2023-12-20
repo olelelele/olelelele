@@ -1,11 +1,11 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://www.brolin.xyz"
 title: "Ole Brolin"
 languageCode: "en-us"
 theme: "PaperMod"
 
 params:
-  background: "images/background.jpg"
-  title_color: "#ffffff"
+#  background: "images/background.jpg"
+  title_color: "#900C3F"
 
 markup:
   goldmark:
