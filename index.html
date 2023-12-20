@@ -1,5 +1,23 @@
-{{ define "main" }}
-  {{ partial "head.html" . }}
-  <h1>Welcome to My Hugo Site</h1>
-  {{ .Content }}
-{{ end }}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Hugo Site</title>
+</head>
+<body>
+
+    <header>
+        <h1>Ole Brolin</h1>
+    </header>
+
+    <main>
+        <!-- Your main content goes here -->
+        {{ .Content }}
+    </main>
+
+    <footer>
+        <p>&copy; {{ now.Year }} Ole Brolin. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
