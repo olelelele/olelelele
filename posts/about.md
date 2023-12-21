@@ -13,7 +13,7 @@ hidemeta: false
 comments: false
 description: "about me"
 canonicalURL: "https://www.brolin.xyz/about/"
-disableHLJS: true # to disable highlightjs
+# disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
