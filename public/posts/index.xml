@@ -15,12 +15,5 @@
       <guid>https://www.brolin.xyz/posts/about/</guid>
       <description></description>
     </item>
-    <item>
-      <title>test-page</title>
-      <link>https://www.brolin.xyz/posts/test-page/</link>
-      <pubDate>Wed, 20 Dec 2023 11:30:03 +0000</pubDate>
-      <guid>https://www.brolin.xyz/posts/test-page/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
