@@ -1,0 +1,19 @@
+#baseURL: https://www.brolin.xyz/
+languageCode: en-us
+title: Ole Brolin
+theme: ["PaperMod"]
+contentDir: "content"
+defaultTheme: auto
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      title: Home
+      url: /
+    - identifier: about
+      name: About
+      title: About Us
+      url: /about/
+
+      
