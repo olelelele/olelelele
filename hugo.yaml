@@ -17,5 +17,5 @@ menu:
       url: /about/
 
 params:
-  favicon: "/favicon.png"
-      
+  favicon: "/favicon.ico"
+  favicon: true
