@@ -16,4 +16,6 @@ menu:
       title: About Us
       url: /about/
 
+params:
+  favicon: "/favicon.png"
       
