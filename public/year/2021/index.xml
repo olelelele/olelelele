@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2021 on Ole Brolin</title>
+    <link>http://localhost:1313/year/2021/</link>
+    <description>Recent content in 2021 on Ole Brolin</description>
+    <generator>Hugo -- 0.147.1</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/year/2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abstracted Walkman</title>
+      <link>http://localhost:1313/work/abstracted-walkman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work/abstracted-walkman/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Abstract Walkman&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/abstrwalk0.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I took apart a walkman and replaced the speed trimmer with a high quality 10-turn potentiometer that I got in Akihabara in 2016.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,18 +1,15 @@
-+++
-title = 'About'
-draft = false
-+++
+---
+title: "About"
+hidden: true
+draft: false
+---
 
+Ole Brolin is a musician, artist, and technician based in Berlin and Eberswalde.
+He works with sound, music and installation. Ole studied at UdK Berlin (Sound Studies) and the Öland School of Art.
 
-Ole Brolin, born in Sweden 1988
-Studied at 
-Sound Studies, UdK, Berlin
-Öland School of Art, Sweden
+His projects range from sound design and installations to recordings and technical production, with clients including Ruhrtriennale, Residenztheater Munich, Brüder Grimm Museum Kassel and Solistenensemble Kaleidoskop.
 
-
-Ole is a largely self-taught musician, artist and media technician.
-He has built installations and made sound designs for clients like the Ruhrtriennale, the Residenztheater in Munich, the Bruder-Grimm-Museum in Kassel and many others.
-
+Ole regularly collaborates with a wide network of artists including Gregoire Simon, Boram Lie, Paul Valikoski, Yannick Rafalimanana and Chatsjatur Kanajan. Ole has helped organize corporate events for organizations like the G7, GEMA, Deutsche Bahn, Bayer, and KPMG.
 
 
 

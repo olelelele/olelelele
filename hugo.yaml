@@ -1,22 +1,33 @@
-baseURL: https://www.brolin.xyz/
-languageCode: en-us
-title: Ole Brolin
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "Ole Brolin"
 theme: ["PaperMod"]
 contentDir: "content"
 defaultTheme: auto
 
 menu:
   main:
-    - identifier: home
-      name: Home
-      title: Home
-      url: /
     - identifier: about
       name: About
-      title: About Us
+      title: About
       url: /about/
+    - identifier: work
+      name: Work
+      title: Work
+      url: /work/
+    - identifier: Music
+      name: Music
+      title: Music
+      url: /music/
 
 params:
   assets:
     favicon: "/favicon.ico"
 
+taxonomies:
+  category: "categories"
+  year: "year"
+
+params:
+  hidden_pages: true
+  
