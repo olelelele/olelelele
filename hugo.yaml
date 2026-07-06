@@ -9,15 +9,15 @@ params:
     - posts
 menu:
   main:
-    - name: Home
+    - name: home
       url: /posts/
       weight: 10
-    - name: About
+    - name: about
       url: /about/
       weight: 20
-    - name: Music
+    - name: music
       url: /music/
       weight: 30
-    - name: Art
+    - name: art
       url: /art/
       weight: 40
