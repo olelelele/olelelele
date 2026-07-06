@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-06T23:12:37+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/music/</loc>
-    <lastmod>2026-07-06T23:12:37+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/music/fiebertr%C3%A4ume/</loc>
-    <lastmod>2026-07-06T23:12:37+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/art/</loc>
+  </url><url>
+    <loc>http://localhost:1313/music/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
   </url><url>
@@ -22,6 +17,8 @@
     <loc>http://localhost:1313/art/abstracted-walkman/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/music/fiebertr%C3%A4ume/</loc>
   </url><url>
     <loc>http://localhost:1313/art/jumbo-receiver/</loc>
   </url><url>

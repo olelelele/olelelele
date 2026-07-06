@@ -1,9 +1,10 @@
 ---
-date: '2026-07-06T23:12:37+02:00'
-draft: true
-title: 'Fieberträume'
+draft: false
+title: 'fieberträume'
 ---
 
-{{< bandcamp `https://penneraudio.bandcamp.com/album/pa003-fiebertr-ume` >}}
+{{< bandcamp url="https://penneraudio.bandcamp.com/album/pa003-fiebertr-ume" layout="standard-big-art" transparent="true" tracklist="true" theme="dark" >}}
 
-Music made in Amsterdam, Uppsala & Amsterdam 2017-18
+<div style="height: 3rem"></div>
+
+Music made in Berlin, Uppsala & Amsterdam 2017-18

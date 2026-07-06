@@ -6,14 +6,24 @@
     <description>Recent content on brolin.xyz</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 23:12:37 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fieberträume</title>
+      <title>fieberträume</title>
       <link>http://localhost:1313/music/fiebertr%C3%A4ume/</link>
-      <pubDate>Mon, 06 Jul 2026 23:12:37 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/music/fiebertr%C3%A4ume/</guid>
-      <description></description>
+      <description>&lt;iframe
+      style=&#34;border:0; max-width:100%; width:700px; height:850px; display:block; margin:2rem auto;&#34;
+      src=&#34;https://bandcamp.com/EmbeddedPlayer/album=2234985273/size=large/bgcol=333333/linkcol=0687f5/transparent=true/&#34;
+      seamless&gt;
+      &lt;a href=&#34;https://penneraudio.bandcamp.com/album/pa003-fiebertr-ume&#34;&gt;.Title&lt;/a&gt;
+    &lt;/iframe&gt;
+  
+
+
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Music made in Berlin, Uppsala &amp;amp; Amsterdam 2017-18&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
