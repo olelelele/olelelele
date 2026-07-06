@@ -24,3 +24,6 @@ menu:
     - name: repairs
       url: /repairs/
       weight: 50
+    - name: contact
+      url: /contact/
+      weight: 60
