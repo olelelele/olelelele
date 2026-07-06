@@ -1,5 +1,5 @@
 ---
-title: "Abstracted Walkman"
+title: "abstracted walkman"
 category: "machine"
 hidden: true
 draft: false
