@@ -1,0 +1,23 @@
+baseURL: https://brolin.xyz/
+locale: en-us
+title: brolin.xyz
+theme: PaperMod
+params:
+  assets:
+    favicon: "/favicon.ico"
+  mainSections:
+    - posts
+menu:
+  main:
+    - name: Home
+      url: /posts/
+      weight: 10
+    - name: About
+      url: /about/
+      weight: 20
+    - name: Music
+      url: /music/
+      weight: 30
+    - name: Art
+      url: /art/
+      weight: 40
