@@ -2,9 +2,23 @@
 draft: false
 title: ""
 ---
+Hello there! 
 
-Ole Brolin is a musician, artist and technician based in Berlin and Eberswalde. He works with sound, music and installation. Ole studied at UdK Berlin (Sound Studies) and the Öland School of Art.
+My name is Ole Brolin and this is my little website. 
 
-His projects range from sound design and installations to recordings and technical production, with clients including Ruhrtriennale, Residenztheater Munich, Brüder Grimm Museum Kassel and Solistenensemble Kaleidoskop.
+I make music, electronic music instruments and art.
+For money I mostly work as a sound- or art technician.
 
-Ole regularly collaborates with a wide network of artists including Gregoire Simon, Boram Lie, Paul Valikoski, Yannick Rafalimanana and Chatsjatur Kanajan. Ole has helped organize corporate events for organizations like the G7, GEMA, Deutsche Bahn, Bayer and KPMG.
+I have always loved taking things apart and doing this I learned how to repair stuff. Electronics, mostly audio- & music gear but a power supply is a power supply is a power supply. 
+
+I’ve been to art school a bit, worked as an assistant for some really good people and from exposure have developed an antipathy towards art writing and empty convoluted fluff.
+
+Therefore I’m not gonna do too much namedropping and whatever. 
+
+WYSIWYG. 
+
+I’ve done sound designs, written music, built a clone of a legendary vintage synthesizer, recorded a couple of jazz albums and much more. I was always much more interested in the work than the documentation so that’s been lacking. I will try to get better, in all respects. Therapy time! :)
+
+Greetings
+
+Ole
