@@ -1,5 +1,5 @@
 ---
-title: "Jumbo Receiver vol 1"
+title: "jumbo receiver vol 1"
 category: show
 ye:ar: 2022
 image: /images/jumborec/Jumbo_0.JPG
