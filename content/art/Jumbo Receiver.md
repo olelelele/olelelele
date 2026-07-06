@@ -25,6 +25,7 @@ Electric guitar, vintage german organ amplifier
 ![Room 3.3](/images/jumborec/Jumbo_5.webp)
 Tape loop, synthesisers, cassette recorders, oscilloscope
 
+All photos by Karla Marchesi, https://karlamarchesi.com/
 
 
 
