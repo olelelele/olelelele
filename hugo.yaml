@@ -21,3 +21,6 @@ menu:
     - name: art
       url: /art/
       weight: 40
+    - name: repairs
+      url: /repairs/
+      weight: 50
