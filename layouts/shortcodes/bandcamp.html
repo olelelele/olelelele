@@ -29,7 +29,7 @@
       {{ $.Scratch.Set "extra" "artwork=none/" }}
 
     {{ else if eq . "standard-big-art" }}
-      {{ $.Scratch.Set "width" "700px" }}
+      {{ $.Scratch.Set "width" "100%" }}
       {{ $.Scratch.Set "height" "700px" }}
       {{ $.Scratch.Set "size" "large" }}
       {{ $.Scratch.Set "extra" "" }}
@@ -37,11 +37,11 @@
       {{ if eq ($.Scratch.Get "tracklist") "true" }}
         {{ $.Scratch.Set "tracklist" "" }}
         {{ $.Scratch.Set "height" "850px" }}
-        {{ $.Scratch.Set "width" "700px" }}
+        {{ $.Scratch.Set "width" "90%" }}
       {{ else }}
         {{ $.Scratch.Set "tracklist" "tracklist=false/" }}
         {{ $.Scratch.Set "height" "700px" }}
-        {{ $.Scratch.Set "width" "700px" }}
+        {{ $.Scratch.Set "width" "90%" }}
       {{ end }}
 
     {{ else if eq . "standard-small-art" }}
@@ -101,12 +101,14 @@
     {{ $album_id_dirty := index (findRE `\/album=([0-9]*)` .Content 1) 0 }} 
     {{ $album_id := replace $album_id_dirty "/album=" "" }}
     
-    <iframe
-      style="border:0; max-width:100%; width:{{ $.Scratch.Get "width" }}; height:{{ $.Scratch.Get "height" }}; display:block; margin:2rem auto;"
-      src="https://bandcamp.com/EmbeddedPlayer/album={{ $album_id }}/size={{ $.Scratch.Get "size" }}/bgcol={{ $.Scratch.Get "bgcol" }}/linkcol={{ $.Scratch.Get "linkcol" }}/transparent={{ $transparent }}/{{ $.Scratch.Get "tracklist" }}{{ $.Scratch.Get "extra" }}"
-      seamless>
-      <a href="{{ $bc_url }}"></a>
-    </iframe>
+    <div class="bandcamp-embed">
+      <iframe
+        style="border:0; max-width:100%; width:{{ $.Scratch.Get "width" }}; height:{{ $.Scratch.Get "height" }}; display:block; margin:2rem auto;"
+        src="https://bandcamp.com/EmbeddedPlayer/album={{ $album_id }}/size={{ $.Scratch.Get "size" }}/bgcol={{ $.Scratch.Get "bgcol" }}/linkcol={{ $.Scratch.Get "linkcol" }}/transparent={{ $transparent }}/{{ $.Scratch.Get "tracklist" }}{{ $.Scratch.Get "extra" }}"
+        seamless>
+        <a href="{{ $bc_url }}"></a>
+      </iframe>
+    </div>
   {{ end }}
 
 {{ else }}
@@ -117,12 +119,14 @@
     {{ $album_id_dirty := index (findRE `\/album=([0-9]*)` .Content 1) 0 }} 
     {{ $album_id := replace $album_id_dirty "/album=" "" }}
 
-    <iframe
-      style="border:0; max-width:100%; width:100%; height:120px; display:block; margin:2rem auto;"
-      src="https://bandcamp.com/EmbeddedPlayer/album={{ $album_id }}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
-      seamless>
-      <a href="{{ $bc_url }}"></a>
-    </iframe>
+    <div class="bandcamp-embed">
+      <iframe
+        style="border:0; max-width:100%; width:100%; height:120px; display:block; margin:2rem auto;"
+        src="https://bandcamp.com/EmbeddedPlayer/album={{ $album_id }}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
+        seamless>
+        <a href="{{ $bc_url }}"></a>
+      </iframe>
+    </div>
 
   {{ end }}
 {{ end }}

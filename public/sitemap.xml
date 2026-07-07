@@ -24,6 +24,10 @@
   </url><url>
     <loc>http://localhost:1313/art/jumbo-receiver/</loc>
   </url><url>
+    <loc>http://localhost:1313/music/ljudgeo_1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/music/ljudgeo_2/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
