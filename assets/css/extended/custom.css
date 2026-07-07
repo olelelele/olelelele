@@ -1,0 +1,13 @@
+
+
+
+.bandcamp-embed {
+  width: 100%;
+  margin: 2rem auto;
+}
+
+@media (max-width:600px) {
+  .bandcamp-embed iframe {
+    height: 500px !important;
+  }
+}
