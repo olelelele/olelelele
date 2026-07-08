@@ -7,4 +7,4 @@ title: 'fieberträume'
 
 <div style="height: 3rem"></div>
 
-Music made in Berlin, Uppsala & Amsterdam 2017-18
+2017-18 Berlin, Uppsala & Amsterdam
