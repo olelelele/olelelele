@@ -10,7 +10,7 @@ params:
 menu:
   main:
     - name: home
-      url: /posts/
+      url: //
       weight: 10
     - name: about
       url: /about/
